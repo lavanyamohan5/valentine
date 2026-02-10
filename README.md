@@ -123,3 +123,6 @@ Use responsibly.
 
 ✨ Try the code. Play with it. Change it.
 And if it makes even one person smile — it already worked. ❤️
+
+🔗 Try it live:
+https://made-you-smile.netlify.app/
